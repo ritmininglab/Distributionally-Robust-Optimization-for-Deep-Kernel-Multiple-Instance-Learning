@@ -1,1 +1,1 @@
-# Distributionally-Robust-Optimization-for-Deep-Kernel-MultipleInstance-Learning
+# Distributionally-Robust-Optimization-for-Deep-Kernel-Multiple-Instance-Learning
